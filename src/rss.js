@@ -12,7 +12,7 @@ module.exports = {
       url: url,
       headers: {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0',
-        accept: 'text/html,application/xhtml+xml'
+        accept: 'text/xml,application/xhtml+xml'
       },
       pool: false,
       followRedirect: true
